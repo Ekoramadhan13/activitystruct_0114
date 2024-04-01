@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pemdasstruct2", "pemdasstru
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pemdasstruct3", "pemdasstruct3\pemdasstruct3.vcxproj", "{BD10A274-B8B7-4B1E-8D58-CA0FEB39753D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "pemdasstruct4", "pemdasstruct4\pemdasstruct4.vcxproj", "{523F1364-6092-4E3A-BFDC-861BC785CB9E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{BD10A274-B8B7-4B1E-8D58-CA0FEB39753D}.Release|x64.Build.0 = Release|x64
 		{BD10A274-B8B7-4B1E-8D58-CA0FEB39753D}.Release|x86.ActiveCfg = Release|Win32
 		{BD10A274-B8B7-4B1E-8D58-CA0FEB39753D}.Release|x86.Build.0 = Release|Win32
+		{523F1364-6092-4E3A-BFDC-861BC785CB9E}.Debug|x64.ActiveCfg = Debug|x64
+		{523F1364-6092-4E3A-BFDC-861BC785CB9E}.Debug|x64.Build.0 = Debug|x64
+		{523F1364-6092-4E3A-BFDC-861BC785CB9E}.Debug|x86.ActiveCfg = Debug|Win32
+		{523F1364-6092-4E3A-BFDC-861BC785CB9E}.Debug|x86.Build.0 = Debug|Win32
+		{523F1364-6092-4E3A-BFDC-861BC785CB9E}.Release|x64.ActiveCfg = Release|x64
+		{523F1364-6092-4E3A-BFDC-861BC785CB9E}.Release|x64.Build.0 = Release|x64
+		{523F1364-6092-4E3A-BFDC-861BC785CB9E}.Release|x86.ActiveCfg = Release|Win32
+		{523F1364-6092-4E3A-BFDC-861BC785CB9E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
